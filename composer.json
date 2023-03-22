@@ -1,8 +1,8 @@
 {
-  "name": "fourlabs/qbjs-parser-bundle",
-  "description": "This bundle is a Symfony wrapper for fourlabs/qbjs-parser.",
+  "name": "endeavourplatforms/qbjs-parser-bundle",
+  "description": "This bundle is a Symfony wrapper for endeavourplatforms/qbjs-parser.",
   "license": "MIT",
-  "homepage": "https://github.com/fourlabsldn/QBJSParserBundle",
+  "homepage": "https://github.com/EndeavourPlatforms/QBJSParserBundle",
   "keywords": [
     "PHP","QBJSParser", "QBJSParserBundle", "QBJS",
     "Parser", "Symfony", "Doctrine", "ORM",
@@ -11,14 +11,14 @@
   ],
   "authors": [
     {
-      "name": "Four Labs",
-      "email": "luis@fourlabs.co.uk",
-      "homepage": "https://fourlabs.co.uk/"
+      "name": "Endeavour",
+      "email": "integrations+github@endeavour.nl",
+      "homepage": "https://endeavour.nl/"
     }
   ],
   "require": {
     "php": "^7.0|^8.0",
-    "fourlabs/qbjs-parser": "dev-master",
+    "endeavourplatforms/qbjs-parser": "^1.0",
     "symfony/config": "~2.8|~3.0|~3.1|^4.0|^5.0",
     "symfony/dependency-injection": "~2.8|~3.0|~3.1|^4.0|^5.0",
     "symfony/http-kernel": "~2.8|~3.0|~3.1|^4.0|^5.0",
